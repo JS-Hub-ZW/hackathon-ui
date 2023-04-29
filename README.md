@@ -1,2 +1,0 @@
-# hackathon-ui
-new hackthonboard
